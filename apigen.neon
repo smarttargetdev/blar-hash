@@ -1,0 +1,8 @@
+source:
+- lib
+
+destination: build/docs
+
+deprecated: true
+
+templateTheme: bootstrap
